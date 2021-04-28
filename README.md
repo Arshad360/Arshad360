@@ -8,7 +8,7 @@
 - 📫 How to reach me: mail.arshadrakib2@gmail.com
 - ⚡ Fun fact: I love to draw, play cricket, football and learn new things.
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arshad360&label=Profile%20views&color=0e75b6&style=flat" alt="Arshad360" /> </p>
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/arshad-rakib-ark/) 
