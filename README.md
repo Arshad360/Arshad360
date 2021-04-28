@@ -9,15 +9,14 @@
 - ⚡ Fun fact: I love to draw, play cricket, football and learn new things.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arshad360&label=Profile%20views&color=0e75b6&style=flat" alt="Arshad360" /> </p>
+
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/arshad-rakib-ark/) 
 [![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/arshad.rakib.9/) 
 ![Medium Read](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)
 [![Questions Ask](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/15182217/rakib) 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
@@ -35,18 +34,11 @@
 [<img align="left" alt="Express.js" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7S33Oq2FeRbyBBA6l1q8PwLVa3SzaONO-9Q&usqp=CAU" />]
 [<img align="left" alt="firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" />]
 [<img align="left" alt="heroku" width="26px" src="https://uploads.sitepoint.com/wp-content/uploads/2016/04/1461122387heroku-logo.jpg" />]
-<br />
-<br />
-<br />
-<br />
 
 ![Arshad360's's github stats](https://github-readme-stats.vercel.app/api?username=Arshad360&show_icons=true&theme=radical)
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad360&card_width=550&show_icons=true&theme=radical)](https://github.com/Arshad360)
 
 
-[programming]: https://www.programming-hero.com/
-[twitter]: https://twitter.com/rakib_arshad
-[linkedin]: https://www.linkedin.com/in/arshad-rakib-ark/
-[instagram]: https://www.instagram.com/rakib_arshad/
+
 
