@@ -33,7 +33,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 [<img align="left" alt="Express.js" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7S33Oq2FeRbyBBA6l1q8PwLVa3SzaONO-9Q&usqp=CAU" />]
 [<img align="left" alt="firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" />]
-[<img align="left" alt="heroku" width="26px" src="https://uploads.sitepoint.com/wp-content/uploads/2016/04/1461122387heroku-logo.jpg" />]
+
 
 ![Arshad360's's github stats](https://github-readme-stats.vercel.app/api?username=Arshad360&show_icons=true&theme=radical)
 
