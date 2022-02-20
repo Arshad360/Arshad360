@@ -1,4 +1,4 @@
-### Hi there! I am Mohammad Arshadul Alam Rakib, currently enrolled as a final-year BSc student at the North South University, Dhaka, Bangladesh. 👋
+### Hi there! I am Mohammad Arshadul Alam Rakib, fresh graduate from North South University, Dhaka, Bangladesh. 👋
 
 ## I'm a son, student, brother and Teacher!!
 
