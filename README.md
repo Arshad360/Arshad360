@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Arshadul Alam Rakib</h1>
 <h3 align="center">An undergraduate BSc student (CSE) at the North South University</h3>
 
-- 🌱 I’m currently Machine Learning, ReactJS, Blockchain and Cryptocurrency,Augmented Reality
+- 🌱 I’m currently learning Machine Learning, ReactJS, Blockchain and Cryptocurrency,Augmented Reality
 
 - 👯 I’m looking to collaborate on any interesting project
 
